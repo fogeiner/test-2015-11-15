@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char *argv[]) {
-    fprintf(stdout, "%s", "Hello world!");
+    fprintf(stdout, "%s", "Bonjour le monde !");
     return 0;
 }
